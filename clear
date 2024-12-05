@@ -1,0 +1,12 @@
+[1mdiff --git a/test.html b/test.html[m
+[1mindex d6a1e3e..5a073fb 100644[m
+[1m--- a/test.html[m
+[1m+++ b/test.html[m
+[36m@@ -7,5 +7,6 @@[m
+ </head>[m
+ <body>[m
+     <p>hello badissi</p>[m
+[32m+[m[32m    <p>hello adam</p>[m
+ </body>[m
+ </html>[m
+\ No newline at end of file[m
